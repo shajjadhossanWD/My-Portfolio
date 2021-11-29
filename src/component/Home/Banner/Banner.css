@@ -1,0 +1,66 @@
+.banner{
+    background-color: #12161f;
+    padding: 60px 0;
+}
+.banner_text{
+    color: white;
+}
+.img_div{
+    width: 70%;
+    border: 2px solid #ff3f34;
+    border-radius: 70px 10px 70px 10px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    display: block;
+    overflow: hidden;
+}
+.img_div img{
+    width: 100%;
+    border-radius: 70px 10px 70px 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img_div:hover img{
+    display: inline;
+    transform: scale(1.2);
+    transition: 0.7s ease-in-out;
+}
+.icon_div{
+    margin-top: 70px;
+}
+.icon_div i{
+   color: #ff3f34;
+   font-size: 30px;
+   margin-right: 10px;
+}
+.btn_div{
+    margin-top: 20px;
+}
+.about_skill{
+    color: #ff3f34;
+}
+.button1{
+    background-color: transparent;
+    border: 2px solid #ff3f34;
+    border-radius: 10px;
+    padding: 10px 17px;
+    color: white;
+    margin-right: 20px;
+}
+.button1:hover{
+    background-color: #ff3f34;
+    transition: 0.5s ease-in-out;
+}
+.button2{
+     background-color: #ff3f34;
+     border: none;
+     border-radius: 10px;
+     padding: 10px 17px;
+     color: white;
+}
+.button2:hover{
+    background-color: transparent;
+    border: 2px solid #ff3f34;
+    transition: 0.5s ease-in-out;
+}
