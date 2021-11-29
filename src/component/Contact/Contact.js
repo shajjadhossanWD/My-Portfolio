@@ -13,6 +13,7 @@ const Contact = () => {
         ).then(res =>{
             console.log(res)
         }).catch(err => console.log(err))
+        e.target.reset();
     }
     return (
         <div className="contact_div" id="contact">
