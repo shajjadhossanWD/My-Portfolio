@@ -13,6 +13,7 @@ const AboutMe = () => {
                     <div className="img_about">
                         <img src="https://i.ibb.co/NxdtdK2/images-removebg-preview.png" alt="" />
                     </div>
+                    
 
                 </div>
 
@@ -35,10 +36,10 @@ const AboutMe = () => {
                  </h4>
                  <p>Hello, my name is Md. Shajjad Hossan. I am a full stack developer(MERN). I have almost 1 year experience in this section. I already complete 20+ Demo project that's will available in my github with source code, and also find some of my demo project below in this website. Also I'm a student of World University of Bangladesh Department of Computer Science and Engineering. To know more information please download my resume and if you need any information about me or for build your project please contact with me. </p>
                 <Link to='contact'>
-                 <button className="about_btn">Hire Me</button>
+                 <button className="button1">Hire Me</button>
                 </Link>
                   <a href="ShajjadHossanResume.pdf" download="Md Shajjad Hossan.pdf">
-                      <button className="about_btn2">
+                      <button className="button2">
                           Download Resume
                       </button>
                       </a>

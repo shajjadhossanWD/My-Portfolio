@@ -1,7 +1,11 @@
 import React from 'react';
 import AboutMe from '../AboutMe/AboutMe';
 import Contact from '../Contact/Contact';
+import Footer from '../Footer/Footer';
+import MyBlog from '../MyBlog/MyBlog';
+import MyProjects from '../MyProjects/MyProjects';
 import Navigation from '../Navigation/Navigation';
+import Skills from '../Skills/Skills';
 import Banner from './Banner/Banner';
 
 const Home = () => {
@@ -10,7 +14,11 @@ const Home = () => {
             <Navigation/>
             <Banner></Banner>
             <AboutMe/>
-            <Contact></Contact>       
+            <MyProjects/> 
+            <MyBlog/>
+            <Skills/>
+            <Contact></Contact>
+            <Footer></Footer>       
         </div>
     );
 };

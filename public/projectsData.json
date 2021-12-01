@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Bike-sell Website",
+        "details": "This is a Bike-sell responsive website",
+        "img" : "https://i.ibb.co/GH9rDYc/bikeHome.jpg",
+        "id": 1,
+        "live_link": "https://lucid-mayer-cac8d9.netlify.app/",
+        "img1": "https://i.ibb.co/YRzvG4c/bike1.jpg",
+        "img2": "https://i.ibb.co/QNbSzwW/bike2.jpg",
+        "img3": "https://i.ibb.co/tXHkwVF/bike3.jpg",
+        "full_details":"This is a bike selling simple website here I use simple html css and javascript."
+        
+    },
+    {
+        "name": "Tourism related Website",
+        "details": "It's a tourism related react js project",
+        "img" : "https://i.ibb.co/f9x6r9j/travel-HOme.png",
+        "id": 2,
+        "live_link": "https://tourism-web-app.web.app/home",
+        "img1": "https://i.ibb.co/0YZ2mJY/travel1.jpg",
+        "img2": "https://i.ibb.co/4WFKm1z/travel2.jpg",
+        "img3": "https://i.ibb.co/hMCPRfF/travel3.jpg",
+        "full_details":"It's a travel related website here you can book your favourite place that you want to travel. Here I use html, css, bootstrap, node JS, react JS, mongo Db, exparess JS, firebase, and so one. Here you can book or delete your booking place"
+        
+
+
+    },
+    {
+        "name": "Watch-sell Website",
+        "details": "It's a watch selling full-stack web site",
+        "img" : "https://i.ibb.co/ctkV9Z3/watchhome.jpg",
+        "id": 3,
+        "live_link": "https://watch-web-2cd74.web.app/home",
+        "img1": "https://i.ibb.co/cQr0Thz/watch1.jpg",
+        "img2": "https://i.ibb.co/F4RdXqr/watch2.jpg",
+        "img3": "https://i.ibb.co/M6FpF1X/watch3.jpg",
+        "full_details":"It's a watch-selling full-stack website. Here I make both admin and user pannel. User can order a product that's add his ordered list. And to order a product a user must login first. An user can delete his ordered product. Admin can add a new product, Delete a product, cancel user order , add new admin and Update status pending to approved."
+
+    },
+    {
+        "name": "Football Website Demo",
+        "details": "It's a football responsive website",
+        "img" : "https://i.ibb.co/v3gfQGT/football-HOme.jpg",
+        "id": 4,
+        "live_link": "https://shajjadhossanwd.github.io/portfolio-4th/index.html",
+        "img1": "https://i.ibb.co/cwwQMp0/football1.jpg",
+        "img2": "https://i.ibb.co/MM9vJqn/football2.jpg",
+        "img3": "https://i.ibb.co/cbmLdkv/football3.jpg",
+        "full_details":"It's a Football website here I use some simple but awesome futures . Here I use Html, css , javascript and bootstrap. And it's also responsive ."
+
+    },
+    {
+        "name": "Medical Website Demo",
+        "details": "It's a medical hospital react js website",
+        "img" : "https://i.ibb.co/KxZVGvp/MEdico-Home.jpg",
+        "id": 5,
+        "live_link": "https://medico-web.web.app/home",
+        "img1": "https://i.ibb.co/bL5G1j2/medico1-1.jpg",
+        "img2": "https://i.ibb.co/0D0mC6Q/medico3.jpg",
+        "img3": "https://i.ibb.co/B2Jtmwr/medico1.jpg",
+        "full_details":"It's a medical hospital website here i create total 5 pages, and each page looking awesome. Here i use react js, react router, firebase authentication system. If user want to check details a service or Department section and Our Doctor section it's redirect to login page and after login it's redirect those page that actually he/she want to go.It's also a responsive website"
+    }
+]

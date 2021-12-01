@@ -14,7 +14,9 @@ const Navigation = () => {
           <Nav className="navigation">
            <Nav.Link as={Link} to="home">Home</Nav.Link>
            <Nav.Link as={Link} to="about">About</Nav.Link>
-           
+           <Nav.Link as={Link} to="project">Projects</Nav.Link>
+           <Nav.Link as={Link} to="blog">Blog</Nav.Link>
+           <Nav.Link as={Link} to="skill">Skills</Nav.Link>
             <Nav.Link as={Link} to="contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>

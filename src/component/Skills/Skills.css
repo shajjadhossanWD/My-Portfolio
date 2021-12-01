@@ -1,0 +1,44 @@
+.bars{
+    margin-bottom: 20px;
+}
+.line{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.line span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.linee {
+    height: 5px;
+    width: 100%;
+    background-color: lightgray;
+    position: relative;
+}
+.linee::before{
+   content: "";
+   position: absolute;
+   height: 100%;
+   background-color: #ff3f34;
+   left: 0;
+   top: 0;
+}
+.javascript::before{
+    width: 70%;
+}
+.react::before{
+    width: 80%;
+}
+.node::before{
+    width: 60%;
+}
+.express::before{
+    width: 70%;
+}
+.mongo::before{
+    width: 90%;
+}
+.html::before{
+    width: 90%;
+}

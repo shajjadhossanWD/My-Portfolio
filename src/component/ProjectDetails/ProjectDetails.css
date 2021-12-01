@@ -1,0 +1,9 @@
+.btn_divv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.details_all{
+    width: 50%;
+
+}
