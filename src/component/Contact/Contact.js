@@ -23,7 +23,7 @@ const Contact = () => {
            </div>
          <div className="contact_me">
          <div className="row container mx-auto ">
-           <div className="col-lg-6 address_info">
+           <div className="col-lg-6 address_info" data-aos="fade-right" data-aos-duration="2000">
             
             <div className="address_div">
                 <h4>Address</h4>
@@ -44,7 +44,7 @@ const Contact = () => {
              </div>
 
            </div>
-           <div className="col-lg-6">
+           <div className="col-lg-6" data-aos="fade-left" data-aos-duration="2000">
            <form onSubmit={sendEmail}>
                 <label>name</label><br/>
                 <input placeholder=" Your Name" className="contact_form" type="text" name="name"/><br/>

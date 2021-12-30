@@ -10,14 +10,14 @@ const AboutMe = () => {
            
             <div className="row container mx-auto">
                 <div className="col-lg-6">
-                    <div className="img_about">
+                    <div className="img_about" data-aos="flip-left">
                         <img src="https://i.ibb.co/NxdtdK2/images-removebg-preview.png" alt="" />
                     </div>
                     
 
                 </div>
 
-                <div className="col-lg-6 about_details" >
+                <div className="col-lg-6 about_details" data-aos="fade-left" data-aos-duration="2000" >
                  <h4 className="about_skill">
                  <Typewriter
                                 options={{

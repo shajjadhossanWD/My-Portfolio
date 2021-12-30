@@ -15,7 +15,7 @@ const MyProjects = () => {
     return (
        <div className="projectsAll" id="project">
         <h1 className="text-center my-5">My Projects</h1>
-        <Row xs={1} md={2} lg={3} className="g-4 container mx-auto">
+        <Row xs={1} md={2} lg={3} className="g-4 container mx-auto" data-aos="zoom-in" data-aos-duration="2000">
           {
             projects.map(project => <AllProjects project={project}></AllProjects>)
           }

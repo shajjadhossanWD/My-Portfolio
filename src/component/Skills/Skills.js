@@ -6,7 +6,7 @@ const Skills = () => {
         <div id="skill">
             <h1 className="text-center my-5">My Skills</h1>
             <div className="row container mx-auto">
-                <div className="col-lg-6 mt-5">
+                <div className="col-lg-6 mt-5" data-aos="fade-right" data-aos-duration="2000">
                   <div className="bars">
                       <div className="line">
                           <span>Html & Css</span>
@@ -51,7 +51,7 @@ const Skills = () => {
                   </div>
                 </div>
                 <div className="col-lg-6">
-                   <div className="img_div">
+                   <div className="img_div" data-aos="fade-left" data-aos-duration="2000">
                         <img src="https://i.ibb.co/FwXr3rF/IMG-20211028-025432-2-removebg-preview.png" alt="" />
                     </div>
                 </div>
